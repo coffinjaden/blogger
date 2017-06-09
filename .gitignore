@@ -1,0 +1,8 @@
+```/.vagrant/*
+/vendor/*
+.DS_Store
+/webroot/files/*
+/tmp/*
+/logs/*
+/config/app.php
+composer.lock```
